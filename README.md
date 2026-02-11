@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on solving DSA problems and strengthening my problem-solving logic on LeetCode and Codeforces  <br>👯 I’m looking to collaborate on competitive programming and interview prep  <br>🤝 I’m looking for help with advanced data structures, dynamic programming, and graph problems  <br>🌱 I’m currently learning patterns, optimization techniques, and writing cleaner solutions  <br>💬 Ask me about arrays, recursion, greedy, and implementation strategies  <br>⚡ Fun fact: I enjoy turning complex problems into simple patterns<br>
+🔭 I’m currently working on mastering Data Structures & Algorithms and solving high-impact problems on LeetCode and Codeforces  
+👯 I’m looking to collaborate on interview preparation, mock interviews, and competitive programming  
+🤝 I’m looking for help with advanced DP, graphs, system-level thinking, and optimization techniques  
+🌱 I’m currently learning scalable problem-solving patterns and writing production-quality logic  
+💬 Ask me about algorithm strategies, complexity analysis, and cracking coding interviews  
+⚡ Fun fact: I treat every problem as a chance to think like a FAANG engineer
 
 
 ## 🌐 Socials:
