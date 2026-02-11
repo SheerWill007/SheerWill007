@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SheerWill007&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheerWill007&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
