@@ -99,16 +99,6 @@ const william = {
 
 ---
 
-## `> git log --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SheerWill007&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheerWill007&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SheerWill007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/SheerWill007)
