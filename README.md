@@ -106,18 +106,6 @@ const william = {
 </div>
 
 ---
-
-## `> cat ./certifications.txt`
-
-| Certification | Issuer | Year |
-|---|---|---|
-| 🔗 Hashgraph Developer Course | Hashgraph | 2025 |
-| 📊 Data Science Essentials with Python | Cisco Networking Academy | 2025 |
-| 🤖 Artificial Intelligence Fundamentals | IBM SkillsBuild | 2025 |
-| ☁️ AWS Academy Cloud Foundations | AWS Academy | 2025 |
-
----
-
 ## `> ./quote --random`
 
 <div align="center">
@@ -133,10 +121,4 @@ const william = {
 *"Started as a designer by chance. Stayed because building things is the best feeling there is."*
 
 **`Open to collabs · Hackathons · Interesting problems · Good conversations on History, Philosophy and Quantum Physics`**
-
-[![Visit Portfolio](https://img.shields.io/badge/will--me--jew.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://will-me-jew.vercel.app)
-[![Follow on GitHub](https://img.shields.io/badge/Follow_@SheerWill007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SheerWill007)
-
-[![](https://visitcount.itsvg.in/api?id=SheerWill007&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
