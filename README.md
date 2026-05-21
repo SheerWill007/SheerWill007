@@ -98,14 +98,6 @@ const william = {
 </div>
 
 ---
-
-<div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SheerWill007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/SheerWill007)
-
-</div>
-
----
 ## `> ./quote --random`
 
 <div align="center">
