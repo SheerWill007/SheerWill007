@@ -118,29 +118,6 @@ const william = {
 
 ---
 
-## `> cat /events/hackathons.md`
-
-```
-2025  Smart India Hackathon    →  Shortlisted for the National Finals
-2025  Odoo Hackathon           →  Reached Semi-Finals, built a working prototype
-2025  PU Hackathon             →  Student Coordinator — ran workshops & sessions
-2025  Hack Tour IND Cohort     →  Web3 track: Polkadot · Ethereum · Solana
-```
-
----
-
-## `> cat /principles/engineering.md`
-
-> **"Clarity over cleverness. Ship things. Learn from what breaks."**
-
-- 🎨 **Design first** — interfaces should feel obvious before they look beautiful
-- 🔁 **Iterate fast** — working prototype beats perfect plan
-- 🧪 **Break things deliberately** — that's how you learn what holds
-- 📖 **Read the source** — strip software down until you understand it
-- 🌱 **DSA is a journey** — solving one problem well beats memorizing a hundred
-
----
-
 ## `> ./quote --random`
 
 <div align="center">
