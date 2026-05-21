@@ -1,5 +1,4 @@
 <div align="center">
-
 ```
 ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗
 ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
@@ -9,13 +8,14 @@
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
-### Competitive Programmer · Full-Stack Engineer · Systems Thinker
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=William+Law+II+%E2%80%94+SheerWill;Design+Engineer+%7C+Full-Stack+Dev;Competitive+Programmer+%7C+Builder;Turning+ideas+into+outcomes.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mastering+DSA+%7C+LeetCode+%7C+Codeforces;Building+Production-Quality+Systems;Thinking+Like+a+FAANG+Engineer;C%2B%2B+%7C+Rust+%7C+Python+%7C+JavaScript)](https://git.io/typing-svg)
+**Portfolio** • **[will-me-jew.vercel.app](https://will-me-jew.vercel.app)** &nbsp;|&nbsp; **Location** • Earth &nbsp;|&nbsp; **Age** • 21
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:WilliamTecumsehSherman007@proton.me)
-[![GitHub followers](https://img.shields.io/github/followers/SheerWill007?style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/SheerWill007)
-[![Profile Views](https://komarev.com/ghpvc/?username=SheerWill007&style=for-the-badge&color=58A6FF)](https://github.com/SheerWill007)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williambenjaminlaw007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://will-me-jew.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SheerWill007)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/will.me)
 
 </div>
 
@@ -23,67 +23,100 @@
 
 ## `> whoami`
 
-```cpp
-class Developer {
-public:
-    string name     = "SheerWill";
-    string focus    = "Data Structures, Algorithms & Competitive Programming";
-    string mindset  = "Every problem is an opportunity to engineer elegant solutions";
+```typescript
+const william = {
+  name:     "William Law II (Aman Law)",
+  alias:    "SheerWill",
+  age:      21,
+  origin:   "Started as a visual designer. Ended up obsessed with how software works.",
+  now:      "Building products · Designing interfaces · Teaching design engineering",
 
-    vector<string> currently_mastering = {
-        "Advanced Dynamic Programming",
-        "Graph Algorithms & Network Flow",
-        "System Design & Scalability Patterns",
-        "Low-level Optimization in C++ & Rust"
-    };
+  focus: [
+    "Full-Stack Product Engineering",
+    "Data Structures & Algorithms",
+    "Competitive Programming",
+    "Design Systems & Motion",
+  ],
 
-    vector<string> open_to = {
-        "Mock Interviews & Competitive Programming Collabs",
-        "Open Source Contributions",
-        "High-Impact Engineering Projects"
-    };
+  interests: {
+    sports:  ["Rugby", "Badminton", "Football", "Pool"],
+    music:   ["Drums", "Guitar", "Ukulele"],
+    other:   ["Gardening", "Contemporary English Literature"],
+  },
 
-    string philosophy() {
-        return "Write code that scales. Think before you type. Ship with intention.";
-    }
+  philosophy: "I like being the person who turns ideas into outcomes.",
 };
 ```
 
 ---
 
-## `> tech_stack --verbose`
+## `> ls ./projects --pinned`
+
+### 🏎️ [F1 Dashboard](https://github.com/SheerWill007/F1)
+> Full-stack Formula 1 data dashboard powered by FastF1. Visualize lap positions, tyre strategies, and race results for any session from 2018 onwards.
+
+`Next.js` `FastAPI` `TypeScript` `Python` `Vercel`
+
+---
+
+### 🔐 [FintechPay 2.0](https://github.com/SheerWill007/FintechPay2.0)
+> Real-time credit card fraud detection web app. Analyzes transaction patterns with advanced algorithms to flag suspicious activity and deliver instant alerts.
+
+`TypeScript` `Machine Learning` `Real-Time Alerts`
+
+---
+
+### 🧠 [DSAForgeCPP](https://github.com/SheerWill007/DSAForgeCPP)
+> Forging strong foundations in Data Structures and Algorithms using C++. A structured reference and practice repo built from the ground up.
+
+`C++` `Algorithms` `Data Structures`
+
+---
+
+## `> tech_stack --all`
 
 <div align="center">
 
-### Systems & Performance
+### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-### Web & Application
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend Ecosystem
+### Frontend & UI
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Data & ML
+### Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Infrastructure & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Cloud & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+---
+
+## `> cat ./certifications.txt`
+
+| Certification | Issuer | Date |
+|---|---|---|
+| 🔗 Hashgraph Developer Course | Hashgraph | Dec 2025 |
+| 📊 Data Science Essentials with Python | Cisco Networking Academy | Oct 2025 |
+| 🤖 Artificial Intelligence Fundamentals | IBM SkillsBuild | Sep 2025 |
+| ☁️ AWS Academy Cloud Foundations | AWS Academy | Aug 2025 |
 
 ---
 
@@ -105,21 +138,18 @@ public:
 
 ---
 
----
+## `> cat /events/hackathons.md`
 
-## `> cat /principles/engineering.md`
-
-> **"Clarity over cleverness. Efficiency over elegance. Correctness before optimization."**
-
-- 🧠 **Think first** — model the problem before touching the keyboard
-- 📐 **Complexity analysis** — every solution ships with time & space proof
-- 🔁 **Iterative refinement** — brute force → optimize → generalize
-- 🧪 **Edge cases are features** — null, empty, overflow, boundary
-- 📖 **Readable code** — the next engineer (future me) deserves clean logic
+```
+2025  Smart India Hackathon       → Shortlisted for the National Finals
+2025  Odoo Hackathon              → Reached Semi-Finals, built functional prototype
+2025  Student Coordinator         → PU Hackathon — ran workshops & sessions
+2025  Hack Tour IND Cohort        → Polkadot · Ethereum · Solana (Web3)
+```
 
 ---
 
-## `> ./quote --random`
+## `> ./quote --today`
 
 <div align="center">
 
@@ -131,10 +161,10 @@ public:
 
 <div align="center">
 
-*"The best engineers aren't the ones who know the most — they're the ones who ask the best questions."*
+*"Started as a designer by chance. Stayed because building things is the best feeling there is."*
 
-**`Open to collabs · Mock interviews · Competitive programming · Interesting problems`**
+**Open to collabs · Mock interviews · Interesting problems · Good conversations**
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SheerWill007)
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-will--me--jew.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://will-me-jew.vercel.app)
 
 </div>
