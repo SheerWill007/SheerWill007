@@ -60,29 +60,6 @@ const william = {
 
 ---
 
-## `> ls ./projects --pinned`
-
-### 🏎️ [F1 Dashboard](https://github.com/SheerWill007/F1)
-Full-stack Formula 1 data dashboard powered by FastF1. Visualize lap positions, tyre strategies, and race results for any session from 2018 onwards.
-
-`Next.js` `FastAPI` `TypeScript` `Python` `Vercel`
-
----
-
-### 🔐 [FintechPay 2.0](https://github.com/SheerWill007/FintechPay2.0)
-Real-time credit card fraud detection web app. Analyzes transaction patterns with advanced algorithms to flag suspicious activity and deliver instant user alerts.
-
-`TypeScript` `ML Algorithms` `Real-Time Processing`
-
----
-
-### 🧠 [DSAForgeCPP](https://github.com/SheerWill007/DSAForgeCPP)
-My personal DSA practice repo. Forging fundamentals in Data Structures and Algorithms using C++ — one problem at a time, built from the ground up.
-
-`C++` `Data Structures` `Algorithms`
-
----
-
 ## `> tech_stack --verbose`
 
 <div align="center">
