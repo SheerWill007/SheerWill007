@@ -15,7 +15,7 @@ Currently shipping full-stack apps, sharpening DSA, and teaching design engineer
 
 ## Projects
 
-### [Slipstreams — F1 Race Analysis Dashboard](https://github.com/SheerWill007/F1)
+### [F1 — Race Analysis Dashboard](https://github.com/SheerWill007/F1)
 
 Full-stack F1 data dashboard powered by FastF1. Visualise lap positions, tyre strategies, and race results for any session from 2018 onwards. Next.js frontend · FastAPI backend · deployed on Vercel + Render.
 
