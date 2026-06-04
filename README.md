@@ -7,7 +7,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
-I build products end-to-end — the kind where design and engineering are the same thing.
+I build products end-to-end — the kind where design and engineering are the same thing
 
 Currently shipping full-stack apps, sharpening DSA, and teaching design engineering on the side.
 
