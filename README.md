@@ -14,7 +14,7 @@ Full-stack F1 data dashboard powered by FastF1. Visualise lap positions, tyre st
 
 `Next.js` `FastAPI` `TypeScript` `Python` `Recharts`
 
-### [FintechPay 2.0](https://github.com/SheerWill007/FintechPay2.0)
+### [Fintech-fraudies](https://github.com/SheerWill007/fintech-fraudies)
 
 Real-time credit card fraud detection platform. Analyses transaction patterns to flag suspicious activity instantly, with live alerts and a full user dashboard.
 
@@ -26,9 +26,9 @@ Roman-inspired multi-chain crypto treasury platform for secure asset management,
 
 `TypeScript` `React` `Web3`
 
-### [DSAForgeCPP](https://github.com/SheerWill007/DSAForgeCPP)
+### [Formula - 1](https://github.com/SheerWill007/formula-1)
 
-Forging strong foundations in Data Structures and Algorithms using C++. Structured, deliberate, from first principles.
+Boxup: Real-time Formula 1 telemetry, race analytics, and ML-powered championship predictions platform.
 
 `C++` `Algorithms` `Data Structures`
 
