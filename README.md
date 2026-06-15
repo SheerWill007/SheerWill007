@@ -26,11 +26,11 @@ Roman-inspired multi-chain crypto treasury platform for secure asset management,
 
 `TypeScript` `React` `Web3`
 
-### [Formula - 1][(https://github.com/SheerWill007/Formula-I)]
+### [Formula - 1](https://github.com/SheerWill007/Formula-I)
 
 Boxup: Real-time Formula 1 telemetry, race analytics, and ML-powered championship predictions platform.
 
-`C++` `Algorithms` `Data Structures`
+`Next.js` `FastAPI` `TypeScript` `Python` `kafka`
 
 ---
 
