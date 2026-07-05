@@ -33,7 +33,6 @@ Boxup: Real-time Formula 1 telemetry, race analytics, and ML-powered championshi
 `Next.js` `FastAPI` `TypeScript` `Python` `kafka`
 
 ### [TemptingMail](https://github.com/SheerWill007/TemptingMail)
-
 A sleek, modern temporary email service with smooth animations and a premium user experience.
 `Next.js` `GSAP` `TypeScript` `PostgreSQL` `Prisma`
 ---
