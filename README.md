@@ -29,7 +29,7 @@ Real-time Formula 1 telemetry, race analytics, and ML-powered championship predi
 ### [TemptingMail](https://github.com/SheerWill007/TemptingMail)
 A sleek, modern temporary email service with smooth animations and a premium user experience.
 
-`Next.js` `GSAP` `TypeScript` `PostgreSQL` `Prisma` `SMTP`
+`Next.js` `GSAP` `TypeScript` `PostgreSQL` `Prisma` `SMTP` `express`
 
 ---
 
