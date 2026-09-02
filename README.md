@@ -37,8 +37,8 @@ A sleek, modern temporary email service with smooth animations and a premium use
 
 ```
 Languages    TypeScript · JavaScript · Python · C++ · Rust
-Frontend     React · Next.js · React Native · Angular · TailwindCSS
-Backend      FastAPI · Node.js · Express
+Frontend     React · Next.js · Nuxt.js · Angular · TailwindCSS
+Backend      FastAPI · Node.js · Express · NestJS
 Data & ML    NumPy · Pandas · scikit-learn · Matplotlib
 Design       Figma · Motion Graphics
 Cloud        Vercel · AWS · MongoDB · Render · DigitalOcean
