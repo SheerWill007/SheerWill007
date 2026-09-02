@@ -41,7 +41,7 @@ Frontend     React · Next.js · React Native · Angular · TailwindCSS
 Backend      FastAPI · Node.js · Express
 Data & ML    NumPy · Pandas · scikit-learn · Matplotlib
 Design       Figma · Motion Graphics
-Cloud        Vercel · AWS · MongoDB · Render
+Cloud        Vercel · AWS · MongoDB · Render · DigitalOcean
 ```
 
 ---
