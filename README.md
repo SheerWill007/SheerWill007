@@ -17,7 +17,7 @@ Real-time credit card fraud detection platform. Analyzes transaction patterns to
 `TypeScript` `React` `scikit-learn` `FastAPI` `PostgreSQL`
 
 ### [Aureus](https://github.com/SheerWill007/Aureus)
-Roman-inspired multi-chain crypto treasury platform for secure asset management, blockchain transactions, NFTs, and market intelligence.
+A crypto treasury platform for secure asset management, blockchain transactions, NFTs, and market intelligence.
 
 `TypeScript` `React` `Web3`
 
