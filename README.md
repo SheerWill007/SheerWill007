@@ -6,19 +6,13 @@ Software engineering and design student building end-to-end products where desig
 
 ---
 
-## Professional Focus
+## Projects
 
-Seeking internship and entry-level opportunities in frontend engineering, full-stack development, and product design. Open to collaborations and hackathons.
+### [F1 Race Analysis Dashboard](https://github.com/SheerWill007/F1)
 
----
+Full-stack dashboard for analyzing any Formula 1 session from 2018 onward, covering lap positions, tyre strategies, and race results. Deployed on Vercel and Render.
 
-## Selected Projects
-
-### [Agent Sandbox](https://github.com/SheerWill007/Agent-Sandbox)
-
-Isolated execution environment for AI agents. Each session runs in a dedicated Firecracker microVM with its own Linux kernel and private network namespace, with cold starts of approximately 90 ms. Includes a TypeScript SDK, REST API, MCP server, Prometheus metrics, and scoped API key authentication.
-
-`TypeScript` `Firecracker` `Express` `MCP` `Docker` `Prometheus`
+`Next.js` `FastAPI` `TypeScript` `Python` `Recharts`
 
 ### [Pluto](https://github.com/SheerWill007/Pluto)
 
@@ -32,11 +26,11 @@ Real-time Formula 1 telemetry, race analytics, and machine-learning-based champi
 
 `Next.js` `FastAPI` `TypeScript` `Python` `Kafka`
 
-### [F1 Race Analysis Dashboard](https://github.com/SheerWill007/F1)
+### [Agent Sandbox](https://github.com/SheerWill007/Agent-Sandbox)
 
-Full-stack dashboard for analyzing any Formula 1 session from 2018 onward, covering lap positions, tyre strategies, and race results. Deployed on Vercel and Render.
+Isolated execution environment for AI agents. Each session runs in a dedicated Firecracker microVM with its own Linux kernel and private network namespace, with cold starts of approximately 90 ms. Includes a TypeScript SDK, REST API, MCP server, Prometheus metrics, and scoped API key authentication.
 
-`Next.js` `FastAPI` `TypeScript` `Python` `Recharts`
+`TypeScript` `Firecracker` `Express` `MCP` `Docker` `Prometheus`
 
 ### [TemptingMail](https://github.com/SheerWill007/TemptingMail)
 
