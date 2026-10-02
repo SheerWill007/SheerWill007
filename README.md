@@ -1,54 +1,68 @@
 # Aman Law
-I build products end-to-end — the kind where design and engineering are the same thing.
-Currently shipping full-stack apps, sharpening DSA, and teaching design engineering on the side.
+
+**Design Engineer | Full-Stack Developer**
+
+Software engineering and design student building end-to-end products where design and engineering are a single discipline. Focus areas: AI agent infrastructure, real-time data systems, and high-quality frontend engineering.
 
 ---
 
-## Projects
+## Professional Focus
 
-### [F1 — Race Analysis Dashboard](https://github.com/SheerWill007/F1)
-Full-stack F1 data dashboard powered by FastF1. Visualize lap positions, tyre strategies, and race results for any session from 2018 onwards. Next.js frontend · FastAPI backend · deployed on Vercel + Render.
+Seeking internship and entry-level opportunities in frontend engineering, full-stack development, and product design. Open to collaborations and hackathons.
 
-`Next.js` `FastAPI` `TypeScript` `Python` `Recharts`
+---
 
-### [Fintech-Fraudies](https://github.com/SheerWill007/fintech-fraudies)
-Real-time credit card fraud detection platform. Analyzes transaction patterns to flag suspicious activity instantly, with live alerts and a full user dashboard.
+## Selected Projects
 
-`TypeScript` `React` `scikit-learn` `FastAPI` `PostgreSQL`
+### [Agent Sandbox](https://github.com/SheerWill007/Agent-Sandbox)
 
-### [Aureus](https://github.com/SheerWill007/Aureus)
-A crypto treasury platform for secure asset management, blockchain transactions, NFTs, and market intelligence.
+Isolated execution environment for AI agents. Each session runs in a dedicated Firecracker microVM with its own Linux kernel and private network namespace, with cold starts of approximately 90 ms. Includes a TypeScript SDK, REST API, MCP server, Prometheus metrics, and scoped API key authentication.
 
-`TypeScript` `React` `Web3`
+`TypeScript` `Firecracker` `Express` `MCP` `Docker` `Prometheus`
 
-### [Boxup — F1 Telemetry & Predictions](https://github.com/SheerWill007/Formula-I)
-Real-time Formula 1 telemetry, race analytics, and ML-powered championship predictions — built on a Kafka streaming pipeline, distinct from the historical race-replay focus of the F1 Dashboard above.
+### [Pluto](https://github.com/SheerWill007/Pluto)
+
+Multi-agent AI orchestrator for document intelligence (RAG), Gmail triage, and dynamic code generation. A provider abstraction layer supports OpenAI, Anthropic, Google, and local Ollama models without code changes. Frontend built with React, Vite, and Zustand.
+
+`FastAPI` `React` `Vite` `TypeScript` `LangChain` `ChromaDB` `Zustand` `Redis`
+
+### [Boxup: F1 Telemetry and Predictions](https://github.com/SheerWill007/Formula-I)
+
+Real-time Formula 1 telemetry, race analytics, and machine-learning-based championship predictions, built on a Kafka streaming pipeline.
 
 `Next.js` `FastAPI` `TypeScript` `Python` `Kafka`
 
+### [F1 Race Analysis Dashboard](https://github.com/SheerWill007/F1)
+
+Full-stack dashboard for analyzing any Formula 1 session from 2018 onward, covering lap positions, tyre strategies, and race results. Deployed on Vercel and Render.
+
+`Next.js` `FastAPI` `TypeScript` `Python` `Recharts`
+
 ### [TemptingMail](https://github.com/SheerWill007/TemptingMail)
-A sleek, modern temporary email service with smooth animations and a premium user experience.
 
-`Next.js` `GSAP` `TypeScript` `PostgreSQL` `Prisma` `SMTP` `express`
+Temporary email service with a refined interface and motion design built on GSAP.
 
----
-
-## Stack
-
-```
-Languages    TypeScript · JavaScript · Python · C++ · Rust
-Frontend     React · Next.js · Nuxt.js · Angular · TailwindCSS
-Backend      FastAPI · Node.js · Express · NestJS
-Data & ML    NumPy · Pandas · scikit-learn · Matplotlib
-Design       Figma · Motion Graphics
-Cloud        Vercel · AWS · MongoDB · Render · DigitalOcean
-```
+`Next.js` `GSAP` `TypeScript` `PostgreSQL` `Prisma` `SMTP` `Express`
 
 ---
 
-## Currently
+## Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, C++, Rust |
+| **Frontend** | React, Next.js, Vite, Nuxt.js, Angular, TailwindCSS, Zustand |
+| **Backend** | FastAPI, Node.js, Express, NestJS, Redis |
+| **AI and Agents** | LangChain, ChromaDB, MCP, Firecracker |
+| **Data and ML** | NumPy, Pandas, scikit-learn, Matplotlib |
+| **Design** | Figma, Motion Graphics |
+| **Cloud** | Vercel, AWS, MongoDB, Render, DigitalOcean |
+
+---
+
+## Current Activities
 
 - Building and shipping full-stack products
-- Learning DSA — slowly but deliberately
+- Strengthening data structures and algorithms
 - Teaching design engineering
-- Open to collabs, hackathons, and good conversations on History, Philosophy, and Quantum Physics
+- Interests: history, philosophy, and quantum physics
