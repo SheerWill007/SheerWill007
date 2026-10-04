@@ -43,14 +43,14 @@ Temporary email service with a refined interface and motion design built on GSAP
 ## Stack
 
 ```
-Languages      TypeScript · JavaScript · Python · C++ · Rust
+Languages      TypeScript · JavaScript · Python · Rust
 Frontend       React · Next.js · Vite · Nuxt.js · Angular · TailwindCSS · Zustand
 Backend        FastAPI · Node.js · Express · NestJS · Redis · Kafka
-AI and Agents  LangChain · ChromaDB · MCP
+AI and Agents  LangChain · ChromaDB · MCP · Claude
 Systems        Linux · KVM · Firecracker · vsock · Docker
 Data and ML    NumPy · Pandas · scikit-learn · Matplotlib
 Design         Figma · Motion Graphics
-Cloud          Vercel · AWS · MongoDB · Render · DigitalOcean
+Cloud          Vercel · AWS · MongoDB · Render · DigitalOcean · Cloudinary · Railways
 ```
 
 ---
