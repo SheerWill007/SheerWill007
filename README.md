@@ -58,6 +58,6 @@ Cloud          Vercel · AWS · MongoDB · Render · DigitalOcean · Cloudinary 
 ## Currently
 
 - Building and shipping full-stack products
-- Strengthening data structures and algorithms
+- Strengthening data structures
 - Teaching design engineering
 - Interests: history, philosophy, and quantum physics
